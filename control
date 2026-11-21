@@ -1,0 +1,9 @@
+Package: com.example.iphonexaod
+Name: iPhoneXAOD
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Minimal Always-On Display for iPhone X
+Maintainer: Le Tuyen
+Author: Le Tuyen
+Section: Tweaks
+Depends: mobilesubstrate
