@@ -1,9 +1,9 @@
-Package: com.example.iphonexaod
-Name: iPhoneXAOD
+Package: com.local.simpleaod
+Name: SimpleAOD
 Version: 0.1.0
 Architecture: iphoneos-arm
-Description: Minimal Always-On Display for iPhone X
-Maintainer: Le Tuyen
-Author: Le Tuyen
+Description: Always On Display for OLED iPhones (made for iPhone X)
+Maintainer: you
+Author: you
 Section: Tweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
